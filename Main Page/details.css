@@ -1,0 +1,43 @@
+
+
+h2{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 31px;
+    color: rgb(118, 245, 113);
+    text-indent: 35px;
+    
+}
+
+.job-title{
+text-indent: 40px;
+font-family: 'Rajdhani',sans-serif;
+
+
+}
+
+.RQ{
+    width: 65%;
+    letter-spacing: 1px;
+    list-style: none;
+    font-family: 'Roboto Mono',monospace,;
+}
+
+ul{
+    font-family: 'Rajdhani',sans-serif;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover{
+    background-color: rgb(47, 255, 64);
+    color:white;
+}
+
+.Back{
+    background-color: #051d14;
+    color: black;
+}
